@@ -138,5 +138,5 @@ def satisficer(arr, numOfChoices, runs, cost, minVal, maxVal):
 
 # Tests
 
-#maximiser(results, 150, 1000, 1, 0, 100)
-#satisficer(results, 1000, 1000, 1, 0, 100)
+#maximiser(results, 200, 1000, 1, 0, 100)
+#satisficer(results, 200, 1000, 1, 0, 100)
