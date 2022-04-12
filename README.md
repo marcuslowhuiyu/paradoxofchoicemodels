@@ -19,7 +19,7 @@ Assumptions:
 4) There is always upsides and downsides to every choice (i.e., neither value can be < 0)
 5) The satisficing agent does not incur opportunity cost of choices they never analysed
 
-#H4 Model 4:
+# H2 Model 4:
 Factors in escalation of expectations
 As the number of choices increases, so too does the expected satisfication of the agent
 The difference between the agent's expectation and the actual satisfication of the choice they made is factored in
